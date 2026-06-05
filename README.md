@@ -1,13 +1,4 @@
-# Olá, eu sou o [Seu Nome]! 👋
 
-Construindo coisas na intersecção entre código, circuitos e engrenagens.
-
-- 🤖 **Foco atual:** Robótica, TI e Engenharia Mecânica.
-- 🎧 **Movido a:** Música (passo o dia inteiro descobrindo e ouvindo novos sons).
-- ⚙️ **O que faço:** Tentando fazer o software e o hardware conversarem sem nada explodir.
-
----
-*"Code is long, life is short, music is endless."*
 <!--
 **jao571/jao571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
